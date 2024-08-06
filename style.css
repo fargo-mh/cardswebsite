@@ -30,7 +30,9 @@ header {
 }
 
 .logo a{
+    text-decoration: none:
     font-size: 30px;
     font-color: #0000ff;
-    font-family: Noto Serif;
+    font-family: 'Noto Serif';
+    letter-spacing; 4px;
 }
