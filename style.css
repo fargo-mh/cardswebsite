@@ -55,3 +55,8 @@ nav a:hover{
     background: #FFFF;
     color: #0000FF;
 }
+
+.content-area{
+    height: 800px;
+    position: relative;
+}
