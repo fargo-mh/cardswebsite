@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Kanit")
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Kanit;
+    text-align: center;
+}
+
+.wrapper {
+    width: 90%;
+    margin: auto;
+}
