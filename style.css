@@ -33,14 +33,24 @@ header {
 .logo a{
     text-decoration: none;
     font-size: 30px;
-    font-color: #0000FF;
+    color: #0000FF;
     font-family: 'Trirong';
-    letter-spacing; 4px;
+    letter-spacing: 4px;
 }
 
 nav {
-    font-size: 10px:
     float: right;
-    text-algin: right;
-    line-height: 20px;
+    line-height: 100px;
+}
+
+nav a{
+    letter-spacing: 4px;
+    padding: 36px 10px;
+    color: #FFFF;
+    font-size: 20px;
+}
+
+nav a:hover{
+    background: #FFFF;
+    color: #0000FF;
 }
