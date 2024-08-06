@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Kanit")
 @import url("https://fonts.googleapis.com/css?family=Trirong")
 
-
 * {
     margin: 0;
     padding: 0;
@@ -37,4 +36,11 @@ header {
     font-color: #0000FF;
     font-family: 'Trirong';
     letter-spacing; 4px;
+}
+
+nav {
+    font-size: 10px:
+    float: right;
+    text-algin: right;
+    line-height: 20px;
 }
