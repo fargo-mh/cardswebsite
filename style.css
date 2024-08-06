@@ -27,6 +27,9 @@ header {
     float: left;
     text-align: left;
     line-height: 100px;
+}
+
+.logo a{
     font-size: 30px;
     font-color: #0000ff;
     font-family: Noto Serif;
