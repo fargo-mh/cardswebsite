@@ -58,5 +58,6 @@ nav a:hover{
 
 .content-area{
     height: 800px;
+    top: 600px;
     position: relative;
 }
